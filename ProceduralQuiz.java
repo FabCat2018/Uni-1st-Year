@@ -10,7 +10,7 @@ The quiz now uses a bubblesort method to sort the user's scores by question, in 
 The quiz now stores all scores by the player, so that they can attempt to beat their high score.
 ******************************************************************************************************************************************* */
 
-class quiz9
+class ProceduralQuiz
 {
     public static void main (String[] param) throws IOException
     {
